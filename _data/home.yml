@@ -4,98 +4,62 @@ navbar_entries:
 
   - title: blog
     url: blog
-
-  - title: website
-    url: https://www.abhinav.co
+  
+  - title: resume
+    url: https://drive.google.com/file/d/1ES7Jxi5Dl9HUJ2krFOjjFpISkP4H76MV/view?usp=sharing
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: RECON
+    url: https://github.com/MU-Enigma/RECON-setup
+    desc: Networked Raspberry Pi 4B Compute Cluster for Parallel Computing
+    highlight: 
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Caly
+    url: https://github.com/Ca-ly/CalyWeb
+    desc: Calendar synchronization and scheduler using Google and Microsoft Calendar APIs
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+  - title: Project X
+    desc: AI-driven automated WAF (Web Application Firewall)
     highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Hawkeye
+    url: https://github.com/dipyamanroy/Hawkeye
+    desc: A custom Discord bot written in Python using Hikari and Lightbulb.
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/dipyamanroy
+
+  - title: linkedin
+    url: https://www.linkedin.com/in/dipyamanroy/
 
   - title: feed
     url: feed.xml
 
 misc_entries:
-  - title: this is an example vertical list
-    url: false
 
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
+  - title: <b> Analytical and Probabilistic Approaches to modeling computer virus propagation </b> <br> Feb 2024 - May 2024 | Mahindra University
     url: false
     entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
+      - title: Modeling virus propagation after compartmental models in epidemiology such as SEIR-KS.
         url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
+      - title: Working to develop a simulation in Matlab and Python for time-delayed differential SEIR-KS and a novel TDNN Time Delayed Neural Network) approach.
+        url: false
 
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+  - title: <b> Accurately modeling particle flow with Discrete Element Method using GPU Acceleration </b> <br> July 2023 - Sep 2023 | ICETCI 2023
+    url: false
+    entries:
+      - title: Developed a research solution to a Civil/Mechanical Engineering problem involving particle flow simulation.
+        url: false
+      - title: Developed a GPU CUDA C and CPU Python/OpenMP accelerated approach to solve the given problem using Discrete Element Method.
+        url: false
 
-
+  - title: <b> Understanding Networks through Clustering, Leveraging Local Node Features for Structural Analysis </b> <br> Jun 2023 - July 2023 | Mahindra University
+    url: false
+    entries:
+      - title: Developed an approach to group nodes that exhibit shared structural properties, thus uncovering cohorts.
+        url: false
+      - title: Presented a novel approach using SimRank similarity instead of algorithms which perform community detection
+        url: false
