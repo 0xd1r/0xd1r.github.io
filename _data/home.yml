@@ -18,6 +18,11 @@ project_entries:
     url: https://github.com/Ca-ly/CalyWeb
     desc: Calendar synchronization and scheduler using Google and Microsoft Calendar APIs
 
+  - title: SimpleLMS
+    url: 
+    desc: A Moodle and Leetcode combination designed for running code-related tasks with automated testing
+    highlight: WIP
+
   - title: Project X
     desc: AI-driven automated WAF (Web Application Firewall)
     highlight: WIP
